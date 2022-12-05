@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    background-color: lightblue;
+    background-color: lightgray;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -26,7 +26,6 @@ body {
 }
 
 .container-content {
-    background-color: lightpink;
     padding: 20px;
     width: 75%;
     display: flex;
